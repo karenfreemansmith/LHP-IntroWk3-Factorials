@@ -1,0 +1,23 @@
+body {
+  background-color: #cfdb00;
+}
+h1 {
+  font-size: 4em;
+  line-height: 4em;
+  text-align: center;
+  font-family: cursive;
+  background-color: #4c008e;
+  color: white;
+  border-radius: 10px;
+}
+
+div {
+  background-color: #fff;
+  color: #4c008e;
+  border-radius: 25px;
+  padding: 25px;
+}
+
+li {
+  list-style: none;
+}
