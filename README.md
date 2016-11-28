@@ -1,30 +1,28 @@
-# [Factorials](http://karenfreemansmith.github.io/factorial)
-![project screenshot](/img/screenshot.jpg)
+# Factorials
+Version 0.0.1: April 16, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: April 16, 2016__
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-### Description
-__*A webpage that calculates factorials.*__
+![screenshot of project running](screenshot.png)
 
-Another Epicodus exercise:
-* A factorial is an operator that multiplies a number by all of the positive integers less than that number. For example, 5! = 5 * 4 * 3 * 2 * 1 = 120.
-
-* By definition, 0! = 1.
-
-* Make a web page to compute factorials. Do it without recursion, and then try it with recursion if you're up for a challenge. (Look online for info on recursion.)
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: A webpage that calculates factorials.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk3-Factorials)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
 For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
+
+## Specifications
+* A factorial is an operator that multiplies a number by all of the positive integers less than that number. For example, 5! = 5 * 4 * 3 * 2 * 1 = 120.
+* By definition, 0! = 1.
+* Make a web page to compute factorials without recursion
 
 ## Known Issues
 * None
