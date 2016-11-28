@@ -8,7 +8,7 @@ HTML, CSS, Bootstrap, JavaScript, jQuery
 ![screenshot of project running](screenshot.png)
 
 ## Description
-*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: A webpage that calculates factorials.*
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 3 Individual Project: A webpage that calculates factorials.*
 
 ## Setup/Installation
 * [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk3-Factorials)
